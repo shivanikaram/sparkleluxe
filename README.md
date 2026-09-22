@@ -1,4 +1,4 @@
-# ✨ Sparkle Luxe — Luxury Jewellery & Watches E-Commerce Website
+#  Sparkle Luxe — Luxury Jewellery & Watches E-Commerce Website
 
 Sparkle Luxe is a full-stack e-commerce web application developed for selling luxury jewellery and watches online.
 
@@ -6,7 +6,7 @@ The application provides customers with an interactive shopping experience while
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Sparkle Luxe is designed as an online platform where customers can browse luxury jewellery and watches, view detailed product information, manage their shopping cart, complete checkout, and review their previous orders.
 
@@ -14,15 +14,15 @@ The system also provides administrative functionality for managing products, inv
 
 The application supports three main user classes:
 
-- 👤 **Customers** — Registered users who can purchase products
-- 👨‍💼 **Administrators** — Users who manage products and orders
-- 👀 **Guest Users** — Visitors who can browse products and services
+-  **Customers** — Registered users who can purchase products
+-  **Administrators** — Users who manage products and orders
+-  **Guest Users** — Visitors who can browse products and services
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 👤 Customer Features
+###  Customer Features
 
 - User registration
 - User login and authentication
@@ -58,7 +58,7 @@ Guest users can:
 
 Guests must register or log in before adding products to the cart or placing orders.
 
-### 🔐 Admin Features
+###  Admin Features
 
 Administrators can:
 
@@ -77,7 +77,7 @@ Administrators can:
 
 ---
 
-## 🛍️ Main Application Pages
+##  Main Application Pages
 
 The application includes:
 
