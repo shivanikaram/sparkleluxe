@@ -1,4 +1,4 @@
-<img width="1136" height="794" alt="image" src="https://github.com/user-attachments/assets/8c067c7d-5a32-4fd0-b603-d6446215f635" />#  Sparkle Luxe — Luxury Jewellery & Watches E-Commerce Website
+###  Sparkle Luxe — Luxury Jewellery & Watches E-Commerce Website
 
 Sparkle Luxe is a full-stack e-commerce web application developed for selling luxury jewellery and watches online.
 
@@ -141,6 +141,6 @@ Sparkle Luxe
 <img width="1039" height="961" alt="image" src="https://github.com/user-attachments/assets/c5efbac4-794d-45a1-bf01-89941922387a" />
 <img width="1136" height="794" alt="image" src="https://github.com/user-attachments/assets/767fff2c-3cff-4440-a415-ce9bb3db4237" />
 <img width="1197" height="1228" alt="image" src="https://github.com/user-attachments/assets/a2f19fe9-1016-417c-9bdc-c88aa1e9bb76" />
-
+<img width="1136" height="794" alt="image" src="https://github.com/user-attachments/assets/8c067c7d-5a32-4fd0-b603-d6446215f635" />
 
 
